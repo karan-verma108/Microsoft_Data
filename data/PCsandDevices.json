@@ -7,8 +7,7 @@
         "info": "The perfect companion for all you do. With powerful new processors, optional 5G connectivity and an ultra-portable design that starts at just 878 g, Surface Pro ...",
         "price": "111312",
         "average_rating": "4",
-        "rating_text": "Good",
-        "pcdeviceId" : 1 
+        "rating_text": "Good"
     },
     {
         "id": 2,
@@ -18,8 +17,7 @@
         "info": "Surface Pro 8 is designed to light up the best of Windows 11, enabling you to work, play, and create in ways most natural to you. Laptop, tablet, or portable ...",
         "price": "167990",
         "average_rating": "5",
-        "rating_text": "Excellent",
-        "pcdeviceId" : 1 
+        "rating_text": "Excellent"
     },
     {
         "id": 3,
@@ -29,8 +27,7 @@
         "info": "Surface Pro 7+ transforms from laptop to tablet to digital canvas with the innovative, adjustable Kickstand. It's a portable and lightweight 2-in-1 so you can ...",
         "price": "88900",
         "average_rating": "4",
-        "rating_text": "Good",
-        "pcdeviceId" : 1 
+        "rating_text": "Good"
     },
     {
         "id": 4,
@@ -40,8 +37,7 @@
         "info": "Multitask with Surface Laptop 5, a sleek and super lightweight, high-performance touchscreen laptop with a remarkable keyboard. Choose your size and vibrant ...",
         "price": "172500",
         "average_rating": "3",
-        "rating_text": "Decent",
-        "pcdeviceId" : 1 
+        "rating_text": "Decent"
     },
     {
         "id": 5,
@@ -51,8 +47,7 @@
         "info": "Explore the versatility of Surface Laptop Studio 2. Unleash your creativity and productivity with its innovative touchscreen and powerful laptop features.",
         "price": "165726",
         "average_rating": "5",
-        "rating_text": "Excellent",
-        "pcdeviceId" : 1 
+        "rating_text": "Excellent"
     },
     {
         "id": 6,
@@ -62,8 +57,7 @@
         "info": "Discover the new Surface Laptop Go 2, a lightweight laptop from Microsoft Surface that has an ultra-thin 12.4” PixelSense™ Display optimised for Windows 11",
         "price": "74500",
         "average_rating": "2",
-        "rating_text": "Average",
-        "pcdeviceId" : 1 
+        "rating_text": "Average"
     },
     {
         "id": 7,
@@ -73,7 +67,6 @@
         "info": "Essential power, exceptional portability, an all-day battery life, and a 12.4” touchscreen. All at under 1.13 kg, it is the perfect everyday laptop.",
         "price": "79990",
         "average_rating": "3",
-        "rating_text": "Decent",
-        "pcdeviceId" : 1 
+        "rating_text": "Decent"
     }
 ]
